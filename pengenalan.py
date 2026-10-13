@@ -1,0 +1,17 @@
+# input
+username = input ("username anda adalah :")
+password = input ("password:")
+nama = input ("nama :")
+kelas = input ("kelas :")
+prodi = input ("prodi :")
+email = input ("email :")
+no_hp = input ("no hp :")
+# output
+print ("=====hasil=====")
+print ("username anda adalah", username)
+print ("pasword", password )
+print ("nama", nama)
+print ("kelas", kelas)
+print ("prodi", prodi)
+print ("email", email)
+print ("no_hp", no_hp)
